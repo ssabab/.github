@@ -1,5 +1,12 @@
 # SSABAB
-![ssabab-icon PNG](https://github.com/user-attachments/assets/1f2aaf28-f768-4e78-a96e-af913848bb62)
+
+![ssabab](https://github.com/user-attachments/assets/e62e9058-ce39-4272-b53b-a06813dc936b)
+
+<br>
+<br>
+
+## 팀 해리네
+![haerine](https://github.com/user-attachments/assets/5a2bdd76-e0f4-46ef-b4ae-6d10742ea107)
 
 ## 1. 📌 프로젝트 개요
 
